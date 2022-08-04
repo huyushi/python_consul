@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+
+CONSUL_IP = "127.0.0.1"
+
+CONSUL_PORT = 8900
+
+CONSUL_TOKEN = None
+
+CONSUL_SERVICE_HEALTH_CHECK = "30s"
